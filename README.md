@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan Vos</h1>
 <h3 align="center">I am a developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on [Twerion](twerion.net)
+- 🔭 I’m currently working on ChickenCraft
 
 - 🌱 I’m currently learning **C**
 
